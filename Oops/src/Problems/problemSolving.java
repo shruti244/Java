@@ -1,4 +1,4 @@
-package feb28;
+package Problems;
 class Member {
     String name;
     int age;
@@ -46,8 +46,8 @@ public class problemSolving {
         System.out.println("Age: " + m1.age);
         System.out.println("Phone Number: " + m1.phoneNumber);
         System.out.println("Address: " + m1.address);
-        m1.printSalary();
-        System.out.println("Specialization: " + emp1.specialization);
+        //m1.printSalary();
+        //System.out.println("Specialization: " + emp1.specialization);
         System.out.println("Department: " + m1.department);
     }
 }
